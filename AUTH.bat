@@ -1,3 +1,3 @@
 d:
-cd D:\programming\PROJECT\AI\Image Processing\Face Rec\4
+cd D:\dir\to\your\folder
 python AUTH.py
